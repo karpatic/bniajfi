@@ -10,7 +10,7 @@ You are viewing our [@BNIAJFI](https://github.com/bniajfi) __user__ account. Thi
 
 Contents in this repository aren't used for anything in particular but are special to BNIA and can help in a pinch. 
 
-For example, it can be used to redirect you.
+For example, it can be used to redirect you. Not all links in this list are hosted in our directory but were made by bnia staff.
 
 ## Projects
 
