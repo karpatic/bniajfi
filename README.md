@@ -15,6 +15,7 @@ For example this READ.ME can help redirect you.
 ## Projects
 
 ### Current
+- VitalSigns - [repo](https://github.com/bnia/VitalSigns) - Python Scripts to Create Vital Signs.
 - datalabs - [repo](https://github.com/karpatic/datalabs) [website](https://karpatic.github.io/datalabs/) - 
 This can help guide you on your pythonic development journey.
 - dataplay - [repo](https://github.com/karpatic/dataplay) [website](https://karpatic.github.io/dataplay/) - 
