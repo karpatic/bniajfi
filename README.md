@@ -5,7 +5,9 @@ All our repos live on the [@BNIA](https://bniajfi.org/) __org__ account.
 
 You are viewing our [@BNIAJFI](https://bniajfi.org/) __user__ account. The only repo hosted by this user account is this profile repo. 
 
-Contents in this repositories directory aren't used for anything in particular but are special to BNIA and can help in a pinch. For example this profile repo can help redirect you.
+Contents in this repositories directory aren't used for anything in particular but are special to BNIA and can help in a pinch. 
+
+For example this READ.ME can help redirect you.
 
 ## Projects
 
