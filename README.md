@@ -14,19 +14,29 @@ For example, it can be used to redirect you.
 
 ## Projects
 
+https://github.com/karpatic/211-scraper
+https://github.com/karpatic/BniaFastStat-ext
+https://github.com/karpatic/close_crawl
+https://github.com/karpatic/dataplay
+https://github.com/karpatic/datalabs
+
 ### Current
+- 211-scraper - [repo](https://github.com/karpatic/211-scraper) - Scrape Maryland Covid 19 data on select communities over the past 30 day period.
+- BniaFastStat-ext - [repo](https://github.com/karpatic/BniaFastStat-ext) - A Chrome extension to explore BNIA Data
+- close_crawl - [repo](https://github.com/karpatic/close_crawl) - A ipynb rehash of the previously created [repo](https://github.com/bnia/Close-Crawl)
 - VitalSigns - [repo](https://github.com/bnia/VitalSigns) - Python Scripts to Create Vital Signs.
 - datalabs - [repo](https://github.com/karpatic/datalabs) [website](https://karpatic.github.io/datalabs/) - 
 This can help guide you on your pythonic development journey.
 - dataplay - [repo](https://github.com/karpatic/dataplay) [website](https://karpatic.github.io/dataplay/) - 
 The one stop shop to learn about data intake, processing, and visualization
 - tidyaddr-js - [repo](https://github.com/bnia/tidyaddr-js) - tidy addr implementation for nodejs. Use with postgres, csv. must have an 'address' column
-- Close-Crawl - [repo](https://github.com/bnia/Close-Crawl) - Tool for scraping features from Maryland foreclosure court cases
+- close_crawl - [repo](https://github.com/karpatic/close_crawl) - Tool for scraping features from Maryland foreclosure court cases 
 - bniaBuilder - [repo](https://github.com/bnia/bniaBuilder) [website](https://bniajfi.org/bold) - Construct Websites for Data Visualization and Exploration
 - green-pattern-map - [repo](https://github.com/bnia/green-pattern-map) [website](https://bniajfi.org/greenpatterns) - Just the backend for the Green Pattern Map
 
 ### OLD:
 - tidyall [repo](https://github.com/bnia/tidyall)
+- Close-Crawl - [repo](https://github.com/bnia/Close-Crawl) - Tool for scraping features from Maryland foreclosure court cases
 - dataday-r-tutorial - [repo](https://github.com/bnia/dataday-r-tutorial)
 - green-pattern-map-1 - [repo](https://github.com/bnia/green-pattern-map-1)
 - green-pattern-map-old - [repo](https://github.com/evanlorim/evans-green-pattern-map)
