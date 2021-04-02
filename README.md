@@ -1,8 +1,11 @@
-👋 Hi, we are [bniajfi](https://bniajfi.org/)
+👋 Hi, we are [bniajfi](https://bniajfi.org/)!
+[BNIA LOGO](https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png)
 
-![BNIA LOGO](https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png)
+All our repos live on the [@BNIA](https://bniajfi.org/) __org__ account.
 
-The files contained in this directory aren't used for anything in particular but are special to BNIA and can help in a pinch.
+You are viewing our [@BNIAJFI](https://bniajfi.org/) __user__ account. The only repo hosted by this user account is this profile repo. 
+
+Contents in this repositories directory aren't used for anything in particular but are special to BNIA and can help in a pinch. For example this profile repo can help redirect you.
 
 ## Projects
 
