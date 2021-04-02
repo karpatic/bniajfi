@@ -1,6 +1,6 @@
 👋 Hi, we are [bniajfi](https://bniajfi.org/)
 
-![Test Image 4](https://github.com/bnia/bnia/bnia_logo_new.png)
+![BNIA LOGO](https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png)
 
 The files contained in this directory aren't used for anything in particular but are special to BNIA and can help in a pinch.
 
