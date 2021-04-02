@@ -1,5 +1,5 @@
 👋 Hi, we are [bniajfi](https://bniajfi.org/)!
-[BNIA LOGO](https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png)
+[](https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png)
 
 All our repos live on the [@BNIA](https://bniajfi.org/) __org__ account.
 
