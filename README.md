@@ -1,8 +1,6 @@
-# 👋 Hi, we are [bniajfi](https://bniajfi.org/)!
+<img align="right" src="https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png" height="160px" width="auto">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png" alt="Logo">
-</div>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, we are <a href="https://bniajfi.org/">BNIAJFI.</a></h1>
 
 All our repos live on the [@BNIA](https://github.com/bnia) __org__ account.
 
