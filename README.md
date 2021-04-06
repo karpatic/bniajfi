@@ -1,4 +1,4 @@
-👋 Hi, we are [bniajfi](https://bniajfi.org/)!
+<h1 align="center"> 👋 Hi, we are [bniajfi](https://bniajfi.org/)!</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bniajfi/bniajfi/main/bnia_logo_new.png" alt="Logo">
@@ -10,15 +10,9 @@ You are viewing our [@BNIAJFI](https://github.com/bniajfi) __user__ account. Thi
 
 Contents in this repository aren't used for anything in particular but are special to BNIA and can help in a pinch. 
 
-For example, it can be used to redirect you. Not all links in this list are hosted in our directory but were made by bnia staff.
+For example, it can be used to redirect you. Links listed here were made by bnia staff. 
 
 ## Projects
-
-https://github.com/karpatic/211-scraper
-https://github.com/karpatic/BniaFastStat-ext
-https://github.com/karpatic/close_crawl
-https://github.com/karpatic/dataplay
-https://github.com/karpatic/datalabs
 
 ### Current
 - 211-scraper - [repo](https://github.com/karpatic/211-scraper) - Scrape Maryland Covid 19 data on select communities over the past 30 day period.
@@ -30,7 +24,6 @@ This can help guide you on your pythonic development journey.
 - dataplay - [repo](https://github.com/karpatic/dataplay) [website](https://karpatic.github.io/dataplay/) - 
 The one stop shop to learn about data intake, processing, and visualization
 - tidyaddr-js - [repo](https://github.com/bnia/tidyaddr-js) - tidy addr implementation for nodejs. Use with postgres, csv. must have an 'address' column
-- close_crawl - [repo](https://github.com/karpatic/close_crawl) - Tool for scraping features from Maryland foreclosure court cases 
 - bniaBuilder - [repo](https://github.com/bnia/bniaBuilder) [website](https://bniajfi.org/bold) - Construct Websites for Data Visualization and Exploration
 - green-pattern-map - [repo](https://github.com/bnia/green-pattern-map) [website](https://bniajfi.org/greenpatterns) - Just the backend for the Green Pattern Map
 
@@ -42,3 +35,5 @@ The one stop shop to learn about data intake, processing, and visualization
 - green-pattern-map-old - [repo](https://github.com/evanlorim/evans-green-pattern-map)
 - code_samples_and_apis - [repo](https://github.com/bnia/code_samples_and_apis)
 - grace-hopper-search-tool - [repo](https://github.com/bnia/grace-hopper-search-tool)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bniajfi.bniajfi)
