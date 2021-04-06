@@ -27,10 +27,7 @@ The one stop shop to learn about data intake, processing, and visualization
 - bniaBuilder - [repo](https://github.com/bnia/bniaBuilder) [website](https://bniajfi.org/bold) - Construct Websites for Data Visualization and Exploration
 - green-pattern-map - [repo](https://github.com/bnia/green-pattern-map) [website](https://bniajfi.org/greenpatterns) - Just the backend for the Green Pattern Map
 
-<details>
-  <summary>
 ### OLD:
-  </summary>
 - tidyall [repo](https://github.com/bnia/tidyall)
 - Close-Crawl - [repo](https://github.com/bnia/Close-Crawl) - Tool for scraping features from Maryland foreclosure court cases
 - dataday-r-tutorial - [repo](https://github.com/bnia/dataday-r-tutorial)
@@ -38,6 +35,5 @@ The one stop shop to learn about data intake, processing, and visualization
 - green-pattern-map-old - [repo](https://github.com/evanlorim/evans-green-pattern-map)
 - code_samples_and_apis - [repo](https://github.com/bnia/code_samples_and_apis)
 - grace-hopper-search-tool - [repo](https://github.com/bnia/grace-hopper-search-tool)
-</details> 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bniajfi.bniajfi)
