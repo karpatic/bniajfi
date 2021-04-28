@@ -123,6 +123,7 @@ WED,Total Number of Employees,Totemp
 WED,Number of Businesses with Under 50 Employees,Smlbus
 WED,Percent of Employed Residents who Work Outside the City,Wrkout
 WED,Total Dollar Amount Invested in Small Businesses per 50 Businesses,Smlinvst
+HCD,The percent of first lien mortgage applications for single family homes that were originated or approved out of all applications in the area,Hmda
 WED,"Number of Banks and Bank Branches per 1,000 Residents",Banks
 WED,Percent of Businesses that are 1 Year old or Less,Biz1_
 WED,Percent of Businesses that are 2 Years old or Less,Biz2_
