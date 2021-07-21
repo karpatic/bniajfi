@@ -10,22 +10,61 @@ Contents in this repository aren't used for anything in particular but are speci
 
 For example, it can be used to redirect you. Links listed here were made by bnia staff. 
 
-## Projects
+## Current Projects
 
-### Current
-- 211-scraper - [repo](https://github.com/karpatic/211-scraper) - Scrape Maryland Covid 19 data on select communities over the past 30 day period.
-- BniaFastStat-ext - [repo](https://github.com/karpatic/BniaFastStat-ext) - A Chrome extension to explore BNIA Data
-- close_crawl - [repo](https://github.com/karpatic/close_crawl) - A ipynb rehash of the previously created [repo](https://github.com/bnia/Close-Crawl)
-- VitalSigns - [repo](https://github.com/bnia/VitalSigns) - Python Scripts to Create Vital Signs.
-- datalabs - [repo](https://github.com/karpatic/datalabs) [website](https://karpatic.github.io/datalabs/) - 
-This can help guide you on your pythonic development journey.
-- dataplay - [repo](https://github.com/karpatic/dataplay) [website](https://karpatic.github.io/dataplay/) - 
-The one stop shop to learn about data intake, processing, and visualization
+- VitalSigns - [repo](https://github.com/bnia/VitalSigns) - Python Scripts to Create Vital Signs. Comes with a Library and Documentation.
+- dataplay - [repo](https://github.com/BNIA/dataplay) - The one stop shop to learn about data intake, processing, and visualization. Comes with a Library and Documentation.
+- dataguide - [repo](https://github.com/BNIA/dataguide) - This can help guide you on your pythonic development journey.
+- datalabs - [repo](https://github.com/BNIA/datalabs) - Novel explorations in the data development landscape. Some Labs are from our Data Science Core students.
+- BniaFastStat-ext - [repo](https://github.com/BNIA/FastStat_Extension) - A Chrome extension to explore BNIA Data
+- close_crawl - [repo](https://github.com/BNIA/Close-Crawl) - A ipynb rehash of the previously created [repo](https://github.com/bnia/Close-Crawl)
 - tidyaddr-js - [repo](https://github.com/bnia/tidyaddr-js) - tidy addr implementation for nodejs. Use with postgres, csv. must have an 'address' column
 - bniaBuilder - [repo](https://github.com/bnia/bniaBuilder) [website](https://bniajfi.org/bold) - Construct Websites for Data Visualization and Exploration
 - green-pattern-map - [repo](https://github.com/bnia/green-pattern-map) [website](https://bniajfi.org/greenpatterns) - Just the backend for the Green Pattern Map
 
-### OLD:
+## Selected Repository Contents:
+
+* Items marked ⚠️ work but need cleaning and better storytelling.
+
+### VitalSigns 
+- index* 
+- core - contains utility fns like preprocessing and analysis
+- close_crawl - Scrape, process, and tidyaddr md courts data for foreclosure data
+- convertvssheetforwpupload - For internal developer use for publication at bnia
+- create_acs_idicators - ACS Creation scrips we use once ACS data has been created.
+- 90-92-> acsexploredownload, vsacsdownload, vsacsindicator,  create_bcountyVitalSigns
+- rbintel.ipynb ---- and more indicator creation scripts (by dataset source)
+
+### Dataplay
+- index - Showsy you how all this can come together
+- Download and Load ⚠️ - Download data without the hassel
+- Merge Data - Perform merges without the hassel
+- Map Basics Intake and Operations - Heatmaps, Choropleths, Point-in-Polygons, etc.
+- Nb 2 Html* - Converts a IPYNB to interactive html docs. 
+- Map Correlations Networks ⚠️ - Visualize correlations in a novel way
+- Time Lapse Gifs - Create Gifs to creativly visualize content.
+
+### Dataguide
+- github - An intro to github
+- colabs - An intro to Colabs
+- bashbasics⚠️
+- Apis - An intro to APIS
+- webscraping⚠️
+- nbdev* - How to publish Colabs.
+- observablehq⚠️
+- cloudfunctions⚠️
+- browserextensions⚠️
+
+### Datalabs  
+- index
+- scooter exploration
+- 211 web scraper
+- nbdev create clean publish* 
+- wordcloud
+- amivi meetup
+- 04_nb_2_html_tests
+
+## OLD Projects:
 - tidyall [repo](https://github.com/bnia/tidyall)
 - Close-Crawl - [repo](https://github.com/bnia/Close-Crawl) - Tool for scraping features from Maryland foreclosure court cases
 - dataday-r-tutorial - [repo](https://github.com/bnia/dataday-r-tutorial)
